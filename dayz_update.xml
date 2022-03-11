@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<update>
+		<version>1.3</version>
+		<file>UPDATE3.zip</file>		
+		<html>http://20.197.183.195/dayz/UPDATE3.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
+	<update>
+		<version>1.4</version>
+		<file>UPDATE4.zip</file>		
+		<html>http://20.197.183.195/dayz/UPDATE4.zip</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
+</root>
